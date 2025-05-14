@@ -5,7 +5,7 @@ import { IoMdSettings } from "react-icons/io";
 
 const Header: FC = () => {
   return (
-    <header className="w-full flex flex-row justify-between items-center  bg-white  top-0 ">
+    <header className="absolute pl-12 pr-4 pt-2 w-full flex flex-row justify-between items-center left-0  top-0 ">
       <div className="flex items-center gap-2">
         <span className="text-xl font-semibold">TaleStrider</span>
       </div>
